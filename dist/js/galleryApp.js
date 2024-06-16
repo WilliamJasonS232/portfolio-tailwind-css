@@ -1,4 +1,4 @@
-import createModal from '/dist/js/createModal.js'
+import createModal from '/portfolio-tailwind-css/dist/js/createModal.js'
 createModal();
 
 const modalableImages = document.querySelectorAll('[data-modal="true"]');
