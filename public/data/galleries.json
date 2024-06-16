@@ -3,35 +3,35 @@
       "name" : "Gramedua",
       "images" : [
           {
-            "src": "/public/img/gramedua/1.png",
+            "src": "public/img/gramedua/1.png",
             "alt": "gramedua1"
           },
           {
-            "src": "/public/img/gramedua/2.png",
+            "src": "public/img/gramedua/2.png",
             "alt": "gramedua2"
           },
           {
-            "src": "/public/img/gramedua/3.png",
+            "src": "public/img/gramedua/3.png",
             "alt": "gramedua3"
           },
           {
-            "src": "/public/img/gramedua/4.png",
+            "src": "public/img/gramedua/4.png",
             "alt": "gramedua4"
           },
           {
-            "src": "/public/img/gramedua/5.png",
+            "src": "public/img/gramedua/5.png",
             "alt": "gramedua5"
           },
           {
-            "src": "/public/img/gramedua/6.png",
+            "src": "public/img/gramedua/6.png",
             "alt": "gramedua6"
           },
           {
-            "src": "/public/img/gramedua/7.png",
+            "src": "public/img/gramedua/7.png",
             "alt": "gramedua7"
           },
           {
-            "src": "/public/img/gramedua/8.png",
+            "src": "public/img/gramedua/8.png",
             "alt": "gramedua8"
           }
       ]
@@ -40,35 +40,35 @@
       "name" : "SIS",
       "images" : [
           {
-            "src": "/public/img/sis/1.png",
+            "src": "public/img/sis/1.png",
             "alt": "sis1"
           },
           {
-            "src": "/public/img/sis/2.png",
+            "src": "public/img/sis/2.png",
             "alt": "sis2"
           },
           {
-            "src": "/public/img/sis/3.png",
+            "src": "public/img/sis/3.png",
             "alt": "sis3"
           },
           {
-            "src": "./img/sis/4.png",
+            "src": "public/img/sis/4.png",
             "alt": "sis4"
           },
           {
-            "src": "/public/img/sis/5.png",
+            "src": "public/img/sis/5.png",
             "alt": "sis5"
           },
           {
-            "src": "/public/img/sis/6.png",
+            "src": "public/img/sis/6.png",
             "alt": "sis6"
           },
           {
-            "src": "/public/img/sis/7.png",
+            "src": "public/img/sis/7.png",
             "alt": "sis7"
           },
           {
-            "src": "./img/sis/8.png",
+            "src": "public/img/sis/8.png",
             "alt": "sis8"
           }
       ]
@@ -77,27 +77,27 @@
       "name" : "foodDB",
       "images" : [
           {
-            "src": "/public/img/foodDatabase/1.png",
+            "src": "public/img/foodDatabase/1.png",
             "alt": "foodDB1"
           },
           {
-            "src": "/public/img/foodDatabase/2.png",
+            "src": "public/img/foodDatabase/2.png",
             "alt": "foodDB2"
           },
           {
-            "src": "/public/img/foodDatabase/3.png",
+            "src": "public/img/foodDatabase/3.png",
             "alt": "foodDB3"
           },
           {
-            "src": "/public/img/foodDatabase/4.png",
+            "src": "public/img/foodDatabase/4.png",
             "alt": "foodDB4"
           },
           {
-            "src": "/public/img/foodDatabase/5.png",
+            "src": "public/img/foodDatabase/5.png",
             "alt": "foodDB5"
           },
           {
-            "src": "/public/img/foodDatabase/6.png",
+            "src": "public/img/foodDatabase/6.png",
             "alt": "foodDB6"
           }
       ]
@@ -106,51 +106,51 @@
       "name" : "bantuDokter",
       "images" : [
           {
-            "src": "/public/img/bantuDokter2/1.png",
+            "src": "public/img/bantuDokter2/1.png",
             "alt": "bantuDokter1"
           },
           {
-            "src": "/public/img/bantuDokter2/2.png",
+            "src": "public/img/bantuDokter2/2.png",
             "alt": "bantuDokter2"
           },
           {
-            "src": "/public/img/bantuDokter2/3.png",
+            "src": "public/img/bantuDokter2/3.png",
             "alt": "bantuDokter3"
           },
           {
-            "src": "/public/img/bantuDokter2/4.png",
+            "src": "public/img/bantuDokter2/4.png",
             "alt": "bantuDokter4"
           },
           {
-            "src": "/public/img/bantuDokter2/5.png",
+            "src": "public/img/bantuDokter2/5.png",
             "alt": "bantuDokter5"
           },
           {
-            "src": "/public/img/bantuDokter2/6.png",
+            "src": "public/img/bantuDokter2/6.png",
             "alt": "bantuDokter6"
           },
           {
-            "src": "/public/img/bantuDokter2/7.png",
+            "src": "public/img/bantuDokter2/7.png",
             "alt": "bantuDokter7"
           },
           {
-            "src": "/public/img/bantuDokter2/8.png",
+            "src": "public/img/bantuDokter2/8.png",
             "alt": "bantuDokter8"
           },
           {
-            "src": "/public/img/bantuDokter2/9.png",
+            "src": "public/img/bantuDokter2/9.png",
             "alt": "bantuDokter9"
           },
           {
-            "src": "/public/img/bantuDokter2/10.png",
+            "src": "public/img/bantuDokter2/10.png",
             "alt": "bantuDokter10"
           },
           {
-            "src": "/public/img/bantuDokter2/11.png",
+            "src": "public/img/bantuDokter2/11.png",
             "alt": "bantuDokter11"
           },
           {
-            "src": "/public/img/bantuDokter2/12.png",
+            "src": "public/img/bantuDokter2/12.png",
             "alt": "bantuDokter12"
           }
       ]
