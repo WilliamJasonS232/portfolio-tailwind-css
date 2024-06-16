@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portfolio Tailwind</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="/public/css/style.css">
 </head>
 <body>
     <!-- Header Start -->
@@ -79,7 +79,7 @@
                 <div class="mb-12 p-4">
                     <div class="rounded-md shadow-md overflow-hidden">
                         <button data-modal="true" data-gallery="Gramedua" aria-label="Gramedua">
-                            <img src="img/gramedua/1.png" alt="Gramedua" width="w-full">
+                            <img src="/public/img/gramedua/1.png" alt="Gramedua" width="w-full">
                         </button>
                     </div>
                     <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Gramedua </h3>
@@ -91,7 +91,7 @@
                 <div class="mb-12 p-4 md:w-1/3">
                     <div class="rounded-md shadow-md overflow-hidden">
                         <button data-modal="true" data-gallery="SIS" aria-label="SIS">
-                            <img src="img/sis/1.png" alt="SIS" width="w-full">
+                            <img src="/public/img/sis/1.png" alt="SIS" width="w-full">
                         </button>
                     </div>
                     <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Sistem Informasi Siswa</h3>
@@ -103,7 +103,7 @@
                 <div class="mb-12 p-4 md:w-1/3">
                     <div class="rounded-md shadow-md overflow-hidden">
                         <button data-modal="true" data-gallery="foodDB" aria-label="foodDB">
-                            <img src="img/foodDatabase/1.png" alt="foodDB" width="w-full">
+                            <img src="/public/img/foodDatabase/1.png" alt="foodDB" width="w-full">
                         </button>
                     </div>
                     <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Food Database</h3>
@@ -115,7 +115,7 @@
                 <div class="mb-12 p-4 md:w-1/3">
                     <div class="rounded-md shadow-md overflow-hidden">
                         <button data-modal="true" data-gallery="bantuDokter" aria-label="bantuDokter">
-                            <img src="img/bantuDokter2/1.png" alt="bantuDokter" width="w-full">
+                            <img src="/public/img/bantuDokter2/1.png" alt="bantuDokter" width="w-full">
                         </button>
                     </div>
                     <h3 class="font-semibold text-xl text-dark mt-5 mb-3">BantuDokter</h3>
@@ -171,33 +171,33 @@
     <!-- About Section End -->
     
     <!-- Footer Start -->
-        <footer class="bg-dark pt-16">
-            <div class="container">
-                <div class="flex flex-wrap">
-                    <!-- <div class="w-full px-4 mb-12 md:w-1/2">
-                        <h3 class="font-semibold text-xl text-white mb-5">Tautan</h3>
-                        <ul class="text-slate-300">
-                            <li><a href="#home" class="inline-block text-base hover:text-primary mb-3">Beranda</a></li>
-                            <li><a href="#portfolio" class="inline-block text-base hover:text-primary mb-3">Portfolio</a></li>
-                            <li><a href="#about" class="inline-block text-base hover:text-primary mb-3">Tentang Saya</a></li>
-                        </ul>
-                    </div> -->
-                    <div class="w-full px-4 mb-12">
-                        <p class="font-medium text-sm text-slate-500 text-center">Dibuat oleh <a href="https://www.linkedin.com/in/william-jason-soewandi-74a17a220/" target="_blank" class="font-bold text-primary">William Jason Soewandi</a>, menggunakan <a href="https://tailwindcss.com" target="_blank" class="font-bold text-sky-500">Tailwind CSS</a></p>
-                    </div>
+    <footer class="bg-dark pt-16">
+        <div class="container">
+            <div class="flex flex-wrap">
+                <!-- <div class="w-full px-4 mb-12 md:w-1/2">
+                    <h3 class="font-semibold text-xl text-white mb-5">Tautan</h3>
+                    <ul class="text-slate-300">
+                        <li><a href="#home" class="inline-block text-base hover:text-primary mb-3">Beranda</a></li>
+                        <li><a href="#portfolio" class="inline-block text-base hover:text-primary mb-3">Portfolio</a></li>
+                        <li><a href="#about" class="inline-block text-base hover:text-primary mb-3">Tentang Saya</a></li>
+                    </ul>
+                </div> -->
+                <div class="w-full px-4 mb-12">
+                    <p class="font-medium text-sm text-slate-500 text-center">Dibuat oleh <a href="https://www.linkedin.com/in/william-jason-soewandi-74a17a220/" target="_blank" class="font-bold text-primary">William Jason Soewandi</a>, menggunakan <a href="https://tailwindcss.com" target="_blank" class="font-bold text-sky-500">Tailwind CSS</a></p>
                 </div>
             </div>
-        </footer>
+        </div>
+    </footer>
     <!-- Footer End -->
     
     
     
     
 
-<script src="js/script.js"></script>
+<script src="/public/js/script.js"></script>
 <script  type="module">
-    import initGallery from "./js/galleryApp.js";
-    initGallery('data/galleries.json', {
+    import initGallery from "/public/js/galleryApp.js";
+    initGallery('/public/data/galleries.json', {
       speed: 600,
     })
 </script>

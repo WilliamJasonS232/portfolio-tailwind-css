@@ -1,4 +1,4 @@
-import createModal from './createModal.js'
+import createModal from '/public/js/createModal.js'
 createModal();
 
 const modalableImages = document.querySelectorAll('[data-modal="true"]');
